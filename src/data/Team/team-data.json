@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "SEKATE. A.",
+    "role": "C.E.0",
+    "image": "/images/team-1.jpg",
+    "social": [
+      {
+        "id": 1,
+        "icon": "twitter",
+        "link": "!#"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "NAME",
+    "role": "ROLE/TITLE",
+    "image": "/images/team-3.jpeg",
+    "social": [
+      {
+        "id": 1,
+        "icon": "twitter",
+        "link": "!#"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "NAME",
+    "role": "ROLE/TITLE",
+    "image": "/images/team-2.jpeg",
+    "social": [
+      {
+        "id": 1,
+        "icon": "twitter",
+        "link": "!#"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "NAME",
+    "role": "ROLE/TITLE",
+    "image": "/images/team-place-holder.jpg",
+    "social": [
+      {
+        "id": 1,
+        "icon": "twitter",
+        "link": "!#"
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  { "id": 1, "title": "Home", "link": "home" },
+  { "id": 2, "title": "Services", "link": "service" },
+  { "id": 3, "title": "Team", "link": "team" },
+  { "id": 5, "title": "Contact us", "link": "contact" },
+  {
+    "id": 4,
+    "type": "external",
+    "title": "Portal",
+    "link": "https://realschoolspanel.vercel.app"
+  }
+]

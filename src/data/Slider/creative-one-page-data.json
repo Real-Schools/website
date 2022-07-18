@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "EDUCATION",
+    "tagline": "One Team. One mission",
+    "text": "The state-of-the-art development skills and learning",
+    "image": "/images/Remake3.png",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "ENROLL NOW",
+        "link": "!#",
+        "type": "btn-circle btn-color"
+      },
+      {
+        "id": 2,
+        "text": "CONTACT US",
+        "link": "!#",
+        "type": "btn-circle btn-outline-white"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "STRATEGY",
+    "tagline": "Brand Strategy",
+    "image": "/images/Remake2.png",
+    "buttons": []
+  },
+  {
+    "id": 3,
+    "title": "COMMUNITY",
+    "tagline": "Brand Strategy",
+    "image": "/images/Remake1.png",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "LEARN MORE",
+        "link": "!#",
+        "type": "btn-circle btn-color"
+      },
+      {
+        "id": 2,
+        "text": "OUR SERVICES",
+        "link": "!#",
+        "type": "btn-circle btn-outline-white"
+      }
+    ]
+  }
+]

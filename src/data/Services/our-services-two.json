@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "test-tube-alt",
+    "title": "Sciences",
+    "text": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum"
+  },
+  {
+    "id": 2,
+    "icon": "computer",
+    "title": "Computing",
+    "text": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum"
+  },
+  {
+    "id": 3,
+    "icon": "headphone-alt",
+    "title": "Co-curricular activities",
+    "text": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum"
+  }
+]
